@@ -1,0 +1,346 @@
+Title,Author,Publication Year,Author's Sex
+Granny's Wondeful Chair,"Browne, Frances",1857,F
+The Rambles of a Rat,"Tucker, Charlotte Maria (A. L. O. E.)",1857,F
+Mrs. Overtheways Remembrances,"Ewing, Juliana Horatia",1869,F
+A Dog of Flanders,"de la Ramée, Marie Louise (Ouida)",1872,F
+The Cuckoo Clock,"Molesworth, Mary Louisa",1877,F
+Black Beauty,"Sewell, Anna",1877,F
+Little Lord Fauntleroy,"Hodgson Burnett, Frances",1886,F
+The Secret Garden,"Hodgson Burnett, Frances",1911,F
+The Story of the Treasure Seekers,"Nesbit, Edith",1899,F
+Tom Brown's School Days,"Hughes, Thomas",1857,M
+Alice's Adventures in Wonderland,"Carrol, Lewis",1865,M
+David Copperfield,"Dickens, Charles",1869,M
+At the Back of the North Wind,"MacDonald, George",1971,M
+Treasure Island,"Stevenson, Robert Louis ",1883,M
+The Happy Prince and Other Tales,"Wilde, Oscar",1888,M
+The Jungle Book,"Kipling, Rudyard",1894,M
+The Little Lame Prince and his Traveling Cloack,"Craik, Dinah Maria Mulock",1875,F
+The Adventures of a Brownie,"Craik, Dinah Maria Mulock",1872,F
+Jan of the Windmill,"Ewing, Juliana Horatia",1876,F
+"Jackanapes, Daddy Darwin's Dovecot and Other Stories","Ewing, Juliana Horatia",1879,F
+The Brownies and Other Tales,"Ewing, Juliana Horatia",1870,F
+Brothers of Pity and Other Tales of Beasts and Men,"Ewing, Juliana Horatia",1882,F
+Melchior's Dream and Other Tales,"Ewing, Juliana Horatia",1862,F
+A Great Emergency and Other Tales,"Ewing, Juliana Horatia",1877,F
+Six to Sixteen: A Story for Girls,"Ewing, Juliana Horatia",1876,F
+A Flat Iron for a Farthing; or Some Passages in the Life of an only Son,"Ewing, Juliana Horatia",1873,F
+The Land of Lost Toys,"Ewing, Juliana Horatia",1869,F
+Snap-Dragons; Old Father Christmas,"Ewing, Juliana Horatia",1888,F
+St. Winifred's; or The World of School,"Farrar, Frederick William",1862,M
+Jack Harkaway and His Son's Escape from the Brigands of Greece,"Hemyng, Bracebridge",190?,M
+Jack Harkaway's Boy Tinker Among The Turks: Book Number Fifteen in the Jack Harkaway Series,"Hemyng, Bracebridge",1870,M
+Jack Harkaway in New York; or The Adventures of the Travelers' Club,"Hemyng, Bracebridge",1879,M
+The Slave of the Mine; or Jack Harkaway in 'Frisco,"Hemyng, Bracebridge",1879,M
+Bevis: The Story of a Boy,"Jefferies, Richard",1882,M
+The Water-Babies,"Kingsley, Charles",1863,M
+Rewards and Fairies,"Kipling, Rudyard",1910,M
+The Princess and the Goblin,"MacDonald, George",1872,M
+A Double Story,"MacDonald, George",1875,M
+A Rough Shaking,"MacDonald, George",1888,M
+Ranald Bannerman's Boyhood,"MacDonald, George",1871,M
+Gutta-Percha Willie: The Working Genius,"MacDonald, George",1873,M
+The Children of the New Forest,"Marryat, Frederick",1847,M
+The Little Savage,"Marryat, Frederick",1848,M
+The King of the Golden River,"Ruskin, John",1851,M
+Holiday House: a Series of Tales,"Sinclair, Catherine",1839,F
+Four Winds Farm,"Molesworth, Mary Louisa",1887,F
+The Cricket on the Hearth : a Fairy Tale of Home,"Dickens, Charles",1845,M
+"Masterman Ready, or The Wreck of the Pacific","Marryat, Frederick",1841,M
+The Settlers at Home,"Martineau, Harriet",1841,F
+The Coral Island: a Tale of the Pacific Ocean,"Ballantyne, Robert Michael",1857,M
+"Nat the Naturalist, or A Boy's Adventures in the Eastern Seas","Fenn, George Manville",1883,M
+The three admirals,"Kingston, William Henry Giles",1878,M
+Louisiana,"Hodgson Burnett, Frances",1880,F
+Sara Crewe  Or  What Happened At Miss Minchin's,"Hodgson Burnett, Frances",1888,F
+A House-Party,"de la Ramée, Marie Louise (Ouida)",1886,F
+Bimbi,"de la Ramée, Marie Louise (Ouida)",1882,F
+A World Of Girls, "Meade, L. T.",1886,F
+Polly A New-Fashioned Girl,"Meade, L. T.",1889,F
+The Children's Pilgrimage,"Meade, L. T.",1883,F
+The Little Princess Of Tower Hill ,"Meade, L. T.",1888,F
+The Palace Beautiful.  A Story For Girls,"Meade, L. T.",1887,F
+A Houseful Of Girls," Tytler, Sarah (Henrietta Keddie)",1889,F
+A Sailor's Lass,"Leslie, Emma",1886,F
+Kate's Ordeal,"Leslie, Emma ",1887,F
+A Final Reckoning,G. A. Henty (George Alfed Henty),1887,M
+Bonnie Prince Charlie,G. A. Henty (George Alfed Henty),1887,M
+By Sheer Pluck,G. A. Henty (George Alfed Henty),1884,M
+Captain Bayley's Heir  A Tale Of The Gold Fields Of California,G. A. Henty (George Alfed Henty),1889,M
+Facing Death,G. A. Henty (George Alfed Henty),1882,M
+For Name And Fame,G. A. Henty (George Alfed Henty),1886,M
+For The Temple,G. A. Henty (George Alfed Henty),1880,M
+Friends Though Divided,G. A. Henty (George Alfed Henty),1883,M
+In The Reign Of Terror  The Adventures Of A Westminster Boy,G. A. Henty (George Alfed Henty),1888,M
+In Times Of Peril  A Tale Of India,G. A. Henty (George Alfed Henty),1881,M
+Jack Archer.  A Tale Of The Crimea,G. A. Henty (George Alfed Henty),1883,M
+Orange And Green:  A Tale Of The Boyne And Limerick,G. A. Henty (George Alfed Henty),1886,M
+Saint George For England,G. A. Henty (George Alfed Henty),1884,M
+Sturdy And Strong,G. A. Henty (George Alfed Henty),1888,M
+The Bravest Of The Brave Or With Peterborough In Spain,G. A. Henty (George Alfed Henty),1886,M
+The Cat Of Bubastes. A Tale Of Ancient Egypt,G. A. Henty (George Alfed Henty),1888,M
+The Cornet Of Horse: A Tale Of Marlborough'S Wars,G. A. Henty (George Alfed Henty),1881,M
+The Curse Of Carne's Hold. A Tale Of Adventure,G. A. Henty (George Alfed Henty),1889,M
+The Dragon And The Raven: Or The Days Of King Alfred,G. A. Henty (George Alfed Henty),1885,M
+The Lion Of St. Mark,G. A. Henty (George Alfed Henty),1889,M
+The Lion Of The North  A Tale Of The Times Of Gustavus Adolphus,G. A. Henty (George Alfed Henty),1886,M
+The Young Buglers,G. A. Henty (George Alfed Henty),1880,M
+The Young Carthaginian  A Story Of The Times Of Hannibal,G. A. Henty (George Alfed Henty),1887,M
+The Young Colonists A Story Of The Zulu And Boer Wars,G. A. Henty (George Alfed Henty),1885,M
+Through The Fray  A Tale Of The Luddite Riots,G. A. Henty (George Alfed Henty),1886,M
+Under Drake's Flag:  A Tale Of The Spanish Main,G. A. Henty (George Alfed Henty),1883,M
+Winning His Spurs. A Tale Of The Crusades,G. A. Henty (George Alfed Henty),1882,M
+With Clive In India: Or The Beginnings Of An Empire,G. A. Henty (George Alfed Henty),1884,M
+With Wolfe In Canada.  Or The Winning Of A Continent,G. A. Henty (George Alfed Henty),1886,M
+Brownsmith'S Boy,"Fenn, George Manville ",1886,M
+Bunyip Land; A Story Of Adventure In New Guinea,"Fenn, George Manville ",1884,M
+Crown And Sceptre; A West Country Story,"Fenn, George Manville ",1889,M
+Dick O' The Fens; A Tale Of The Great Eastern Swamp,"Fenn, George Manville ",1888,M
+Menhardoc; A Story Of Cornish Nets and Mines ,"Fenn, George Manville ",1885,M
+Middy And Ensign,"Fenn, George Manville ",1883,M
+Mother Carey'S Chicken,"Fenn, George Manville ",1888,M
+Patience Wins; Or War In The Works,"Fenn, George Manville ",1886,M
+Quicksilver; Or The Boy With No Skid To His Wheel ,"Fenn, George Manville ",1889,M
+Son Philip ,"Fenn, George Manville ",1886,M
+The Bag Of Diamonds,"Fenn, George Manville ",1887,M
+The Devon Boys; A Tale Of The North Shore,"Fenn, George Manville ",1887,M
+The Giant of the North,"Ballantyne, Robert Michael",1881,M
+The Golden Magnet,"Fenn, George Manville ",1883,M
+The New Forest Spy,"Fenn, George Manville ",1885,M
+The Silver Canyon,"Fenn, George Manville ",1884,M
+Three Boys; Or The Chiefs Of The Clan Mackhai,"Fenn, George Manville ",1889,M
+Through Forest And Stream; Or The Quest Of The Quetzal,"Fenn, George Manville ",1884,M
+Kidnapped,"Stevenson, Robert Louis ",1886,M
+A Dog With A Bad Name,"Reed, Talbot Baines",1894,M
+Follow My Leader,"Reed, Talbot Baines",1885,M
+My Friend Smith A Story Of School And City Life ,"Reed, Talbot Baines",1889,M
+Reginald Cruden A Tale Of City Life,"Reed, Talbot Baines",1885,M
+Sir Ludar A Story Of The Days Of The Great Queen Bess,"Reed, Talbot Baines",1889,M
+The Fifth Form At Saint Dominic's,"Reed, Talbot Baines",1881,M
+The Master Of The Shell,"Reed, Talbot Baines",1887,M
+The Willoughby Captains ,"Reed, Talbot Baines",1887,M
+Adventures In Africa,"Kingston, William Henry Giles",1883,M
+Adventures In Australia ,"Kingston, William Henry Giles",1885,M
+Prince Prigio,"Lang, Andrew",1889,M
+The  Gold Of Fairnilee,"Lang, Andrew",1888,M
+The Princess And Curdie,"MacDonald, George",1883,M
+Battles With The Sea,"Ballantyne, Robert Michael",1883,M
+Blown To Bits Or The Lonely Man Of Rakata,"Ballantyne, Robert Michael",1889,M
+Blue Lights,"Ballantyne, Robert Michael",1888,M
+Dusty Diamonds Cut And Polished,"Ballantyne, Robert Michael",1884,M
+My Doggie And I,"Ballantyne, Robert Michael",1881,M
+Post Haste,"Ballantyne, Robert Michael",1880,M
+Red Rooney,"Ballantyne, Robert Michael",1886,M
+The Battery And The Boiler,"Ballantyne, Robert Michael",1882,M
+The Big Otter,"Ballantyne, Robert Michael",1887,M
+The Crew Of The Water Wagtail,"Ballantyne, Robert Michael",1880,M
+The Eagle Cliff,"Ballantyne, Robert Michael",1890,M
+The Fugitives. The Tyrant Queen Of Madagascar,"Ballantyne, Robert Michael",1887,M
+The Island Queen,"Ballantyne, Robert Michael",1885,M
+The Life Of A Ship From The Launch To The Wreck,"Ballantyne, Robert Michael",1882,M
+The Lively Poll,"Ballantyne, Robert Michael",1886,M
+The Middy And The Moors. An Algerine Story,"Ballantyne, Robert Michael",1888,M
+The Prairie Chief,"Ballantyne, Robert Michael",1886,M
+The Red Man'S Revenge. A Tale Of The Red River Flood,"Ballantyne, Robert Michael",1880,M
+The Rover Of The Andes,"Ballantyne, Robert Michael",1885,M
+The Thorogood Family,"Ballantyne, Robert Michael",1883,M
+The Young Trawler,"Ballantyne, Robert Michael",1884,M
+Twice Bought,"Ballantyne, Robert Michael",1885,M
+The Crown of Success,"Tucker, Charlotte Maria (A. L. O. E.)",1863,F
+The Children's Tabernacle; Or: Hand-Work and Heart-Work,"Tucker, Charlotte Maria (A. L. O. E.)",1875,F
+Flora,"Tucker, Charlotte Maria (A. L. O. E.)",1858,F
+Hair-Breadth Escapes: The Adventures of Three Boys in South Africa,"Adams, H. C. (Henry Cadwallader)",1876,M
+Perils in the Transvaal and Zululand,"Adams, H. C. (Henry Cadwallader)",1887,M
+The Young Fur-traders: A Tale of the Far North; Or: Snowflakes and Sunbeams,"Ballantyne, R. M. (Robert Michael)",1856,M
+Martin Rattler,"Ballantyne, R. M. (Robert Michael)",1858,M
+The Lighthouse,"Ballantyne, R. M. (Robert Michael)",1865,M
+Fighting the Whales,"Ballantyne, R. M. (Robert Michael)",1863,M
+The Pioneers,"Ballantyne, R. M. (Robert Michael)",1872,M
+The Pirate City: An Algerine Tale,"Ballantyne, R. M. (Robert Michael)",1874,M
+Life in the Red Brigade: London Fire Brigade,"Ballantyne, R. M. (Robert Michael)",1873,M
+Rivers of Ice,"Ballantyne, R. M. (Robert Michael)",1875,M
+The Settler and the Savage,"Ballantyne, R. M. (Robert Michael)",1877,M
+In the Closed Room,"Burnett, Frances Hodgson",1904,F
+"Racketty-Packetty House, as Told by Queen Crosspatch","Burnett, Frances Hodgson",1906,F
+Little Saint Elizabeth and Other Stories,"Burnett, Frances Hodgson",1888,F
+Barty Crusoe and His Man Saturday,"Burnett, Frances Hodgson",1909,F
+The Cozy Lion,"Burnett, Frances Hodgson",1907,F
+The Good Wolf,"Burnett, Frances Hodgson",1908,F
+Two Little Pilgrims' Progress: A Story of the City Beautiful,"Burnett, Frances Hodgson",1895,F
+Through the Looking-Glass,"Carroll, Lewis",1871,M
+Maud Florence Nellie; or: Don't Care,"Coleridge, Christabel Rose",1890,F
+The Constant Prince,"Coleridge, Christabel Rose",1879,F
+The Adventures of Dick Maitland: A Tale of Unknown Africa,"Collingwood, Harry",1911,M
+The Congo Rovers: A Story of the Slave Squadron,"Collingwood, Harry",1885,M
+Under the Chilian Flag: A Tale of War between Chili and Peru,"Collingwood, Harry",1908,M
+A Middy in Command: A Tale of the Slave Squadron,"Collingwood, Harry",1908,M
+The Log of a Privateersman,"Collingwood, Harry",1896,M
+Under the Meteor Flag: Log of a Midshipman during the French Revolutionary War,"Collingwood, Harry",1884,M
+A Middy of the Slave Squadron: A West African Story,"Collingwood, Harry",1910,M
+The Rover's Secret: A Tale of the Pirate Cays and Lagoons of Cuba,"Collingwood, Harry",1887,M
+The Pirate Island: A Story of the South Pacific,"Collingwood, Harry",1884,M
+A Pirate of the Caribbees,"Collingwood, Harry",1898,M
+The Cruise of the Thetis: A Tale of the Cuban Insurrection,"Collingwood, Harry",1909,M
+The Castaways,"Collingwood, Harry",1899,M
+The Pirate Slaver: A Story of the West African Coast,"Collingwood, Harry",1895,M
+Across the Spanish Main: A Tale of the Sea in the Days of Queen Bess,"Collingwood, Harry",1906,M
+Two Gallant Sons of Devon: A Tale of the Days of Queen Bess,"Collingwood, Harry",1912,M
+A Middy of the King: A Romance of the Old British Navy,"Collingwood, Harry",1911,M
+With Airship and Submarine: A Tale of Adventure,"Collingwood, Harry",1907,M
+"The Cruise of the ""Esmeralda""","Collingwood, Harry",1894,M
+The First Mate: The Story of a Strange Cruise,"Collingwood, Harry",1914,M
+The Voyage of the Aurora,"Collingwood, Harry",1885,M
+In the Days of Chivalry: A Tale of the Times of the Black Prince,"Everett-Green, Evelyn",1893,F
+The Lord of Dynevor: A Tale of the Times of Edward the First,"Everett-Green, Evelyn",1892,F
+Tom Tufton's Travels,"Everett-Green, Evelyn",1898,F
+A Heroine of France: The Story of Joan of Arc,"Everett-Green, Evelyn",1906,F
+The Sign of the Red Cross: A Tale of Old London,"Everett-Green, Evelyn",1904,F
+For the Faith: A Story of the Young Pioneers of Reformation in Oxford,"Everett-Green, Evelyn",1902,F
+The Secret Chamber at Chad,"Everett-Green, Evelyn",1894,F
+In the Wars of the Roses: A Story for the Young,"Everett-Green, Evelyn",1901,F
+French and English: A Story of the Struggle in America,"Everett-Green, Evelyn",1899,F
+The Lost Treasure of Trevlyn: A Story of the Days of the Gunpowder Plot,"Everett-Green, Evelyn",1894,F
+Esther's Charge: A Story for Girls,"Everett-Green, Evelyn",1900,F
+"A Clerk of Oxford, and His Adventures in the Barons' War","Everett-Green, Evelyn",1898,F
+Fallen Fortunes,"Everett-Green, Evelyn",1906,F
+The Peace Egg and Other tales,"Ewing, Juliana Horatia",1895,F
+"Mary's Meadow, and Other Tales of Fields and Flowers","Ewing, Juliana Horatia",1883,F
+"Eric; Or, Little by Little","Farrar, Frederic William",1858,M
+The Jungle Baby,"Farrow, George Edward",1900,M
+The Wallypug in London,"Farrow, G. E. (George Edward)",1898,M
+"Turns of Fortune, and Other Tales","Hall, Anna Maria (S. C., Mrs.)",1851,F
+Tom Brown at Oxford,"Hughes, Thomas",1861,M
+"Westward Ho! Or, The Voyages and Adventures of Sir Amyas Leigh, Knight, of Burrough, in the County of Devon, in the Reign of Her Most Glorious Majesty Queen Elizabeth","Kingsley, Charles",1855,M
+Stalky & Co.,"Kipling, Rudyard",1899,M
+The Second Jungle Book,"Kipling, Rudyard",1895,M
+"""Captains Courageous"": A Story of the Grand Banks","Kipling, Rudyard",1897,M
+The Princess Nobody: A Tale of Fairyland,"Lang, Andrew",1884,M
+Mr. Midshipman Easy,"Marryat, Frederick",1836,M
+The Settlers in Canada,"Marryat, Frederick",1844,M
+A Sweet Girl Graduate,"Meade, L. T.",1891,F
+Wild Kitty,"Meade, L. T.",1897,F
+Light O' the Morning: The Story of an Irish Girl,"Meade, L. T.",1899,F
+The Honorable Miss: A Story of an Old-Fashioned Town,"Meade, L. T.",1890,F
+A Little Mother to the Others,"Meade, L. T.",1896,F
+A Girl in Ten Thousand,"Meade, L. T.",1896,F
+"Sue, A Little Heroine","Meade, L. T.",1910,F
+Dickory Dock,"Meade, L. T.",1890,F
+A Modern Tomboy: A Story for Girls,"Meade, L. T.",1904,F
+"Red Rose and Tiger Lily; Or, In a Wider World","Meade, L. T.",1894,F
+A Young Mutineer,"Meade, L. T.",1905,F
+Betty Vivian: A Story of Haddo Court School,"Meade, L. T.",1910,F
+Girls of the Forest,"Meade, L. T.",1902,F
+The Children of Wilton Chase,"Meade, L. T.",1891,F
+A Bunch of Cherries: A Story of Cherry Court School,"Meade, L. T.",1898,F
+Good Luck,"Meade, L. T.",1896,F
+The School Queens,"Meade, L. T.",1910,F
+Daddy's Girl,"Meade, L. T.",1900,F
+A Very Naughty Girl,"Meade, L. T.",1901,F
+The Lady of the Forest: A Story for Girls,"Meade, L. T.",1892,F
+A Plucky Girl,"Meade, L. T.",1900,F
+The Girls of St. Wode's,"Meade, L. T.",1898,F
+Girls of the True Blue,"Meade, L. T.",1901,F
+A Bevy of Girls,"Meade, L. T.",1905,F
+David's Little Lad,"Meade, L. T.",1877,F
+Dumps - A Plain Girl,"Meade, L. T.",1905,F
+Mou-Setsé: A Negro Hero; The Orphans' Pilgimage: A Story of Trust in God,"Meade, L. T.",1880,F
+Three Girls from School,"Meade, L. T.",1907,F
+The Little School-Mothers,"Meade, L. T.",1907,F
+Jill: A Flower Girl,"Meade, L. T.",1892,F
+A London Baby: The Story of King Roy,"Meade, L. T.",1882,F
+A Ring of Rubies,"Meade, L. T.",1906,F
+Scamp and I: A Story of City By-Ways,"Meade, L. T.",1872,F
+The Squire's Little Girl,"Meade, L. T.",1902,F
+Turquoise and Ruby,"Meade, L. T.",1906,F
+Girls New and Old,"Meade, L. T.",1895,F
+Rosy,"Molesworth, Mary Louisa",1882,F
+"""Us,"" An Old Fashioned Story","Molesworth, Mary Louisa",1886,F
+The Rectory Children,"Molesworth, Mary Louisa",1889,F
+Grandmother Dear: A Book for Boys and Girls,"Molesworth, Mary Louisa",1878,F
+A Christmas Posy,"Molesworth, Mary Louisa",1888,F
+Robin Redbreast: A Story for Girls,"Molesworth, Mary Louisa",1890,F
+Hoodie,"Molesworth, Mary Louisa",1897,F
+My New Home,"Molesworth, Mary Louisa",1894,F
+Peterkin,"Molesworth, Mary Louisa",1902,F
+Great Uncle Hoot-Toot,"Molesworth, Mary Louisa",1889,F
+The Adventures of Herr Baby,"Molesworth, Mary Louisa",1881,F
+The Boys and I: A Child's Story for Children,"Molesworth, Mary Louisa",1883,F
+Miss Mouse and Her Boys,"Molesworth, Mary Louisa",1897,F
+The Girls and I: A Veracious History,"Molesworth, Mary Louisa",1892,F
+"""Carrots:"" Just a Little Boy","Molesworth, Mary Louisa",1876,F
+A Christmas Child: A Sketch of a Boy-Life,"Molesworth, Mary Louisa",1880,F
+Little Miss Peggy: Only a Nursery Story,"Molesworth, Mary Louisa",1887,F
+The Palace in the Garden,"Molesworth, Mary Louisa",1887,F
+"The Green Casket, and other stories","Molesworth, Mary Louisa",1890,F
+"The Man with the Pan-Pipes, and Other Stories","Molesworth, Mary Louisa",1892,F
+Nurse Heatherdale's Story,"Molesworth, Mary Louisa",1891,F
+Christmas-Tree Land,"Molesworth, Mary Louisa",1886,F
+The Carved Lions,"Molesworth, Mary Louisa",1895,F
+The House That Grew,"Molesworth, Mary Louisa",1900,F
+Two Little Waifs,"Molesworth, Mary Louisa",1883,F
+The Magic Nuts,"Molesworth, Mary Louisa",1898,F
+The Oriel Window,"Molesworth, Mary Louisa",1896,F
+"The Old Pincushion; or, Aunt Clotilda's Guests","Molesworth, Mary Louisa",1889,F
+The Wood-Pigeons and Mary,"Molesworth, Mary Louisa",1901,F
+The Third Miss St Quentin,"Molesworth, Mary Louisa",1888,F
+Tell Me a Story,"Molesworth, Mary Louisa",1875,F
+Sweet Content,"Molesworth, Mary Louisa",1891,F
+Silverthorns,"Molesworth, Mary Louisa",1887,F
+Blanche: A Story for Girls,"Molesworth, Mary Louisa",1893,F
+The Children of the Castle,"Molesworth, Mary Louisa",1890,F
+An Enchanted Garden: Fairy Stories,"Molesworth, Mary Louisa",1892,F
+Jasper,"Molesworth, Mary Louisa",1906,F
+Mary: A Nursery Story for Very Little Children,"Molesworth, Mary Louisa",1893,F
+The Little Old Portrait,"Molesworth, Mary Louisa",1884,F
+"That Girl in Black; and, Bronzie","Molesworth, Mary Louisa",1889,F
+Philippa,"Molesworth, Mary Louisa",1896,F
+The Tapestry Room: A Child's Romance,"Molesworth, Mary Louisa",1879,F
+The Wouldbegoods: Being the Further Adventures of the Treasure Seekers,"Nesbit, Edith",1901,F
+The Phoenix and the Carpet,"Nesbit, Edith",1904,F
+The Story of the Amulet,"Nesbit, Edith",1906,F
+The Enchanted Castle,"Nesbit, Edith",1907,F
+The Book of Dragons,"Nesbit, Edith",1901,F
+"New Treasure Seekers; Or, The Bastable Children in Search of a Fortune","Nesbit, Edith",1904,F
+Pussy and Doggy Tales,"Nesbit, Edith",1899,F
+The Magic World,"Nesbit, Edith",1912,F
+Wet Magic,"Nesbit, Edith",1913,F
+"The Wonderful Garden; or, The Three Cs","Nesbit, Edith",1911,F
+Prentice Hugh,"Peard, Frances Mary",1887,F
+The Tale of Mrs. Tiggy-Winkle,"Potter, Beatrix",1905,F
+The Tale of the Flopsy Bunnies,"Potter, Beatrix",1909,F
+The Tale of Peter Rabbit,"Potter, Beatrix",1902,F
+The Tale of Benjamin Bunny,"Potter, Beatrix",1904,F
+The Tale of Timmy Tiptoes,"Potter, Beatrix",1911,F
+The Tale of Jemima Puddle-Duck,"Potter, Beatrix",1908,F
+The Tale of Tom Kitten,"Potter, Beatrix",1907,F
+The Story of Miss Moppet,"Potter, Beatrix",1906,F
+The Tailor of Gloucester,"Potter, Beatrix",1903,F
+The Tale of Squirrel Nutkin,"Potter, Beatrix",1903,F
+The Tale of Ginger and Pickles,"Potter, Beatrix",1909,F
+The Tale of Mr. Jeremy Fisher,"Potter, Beatrix",1906,F
+The Tale of the Pie and the Patty Pan,"Potter, Beatrix",1905,F
+"The Tale of Samuel Whiskers; Or, The Roly-Poly Pudding","Potter, Beatrix",1908,F
+The Tale of Mrs. Tittlemouse,"Potter, Beatrix",1910,F
+The Tale of Mr. Tod,"Potter, Beatrix",1912,F
+The Tale of Two Bad Mice,"Potter, Beatrix",1904,F
+The Story of a Fierce Bad Rabbit,"Potter, Beatrix",1906,F
+"Tom, Dick and Harry","Reed, Talbot Baines",1894,M
+Kilgorman: A Story of Ireland in 1798,"Reed, Talbot Baines",1895,M
+The Adventures of a Three-Guinea Watch,"Reed, Talbot Baines",1883,M
+The Cock-House at Fellsgarth,"Reed, Talbot Baines",1893,M
+"Roger Ingleton, Minor","Reed, Talbot Baines",1891,M
+Shanty the Blacksmith; a Tale of Other Times,"Sherwood, Mary Martha",1835,F
+"The Young Lord, and Other Tales; to which is added Victorine Durocher","Sherwood, Mary Martha",1850,F
+Catriona,"Stevenson, Robert Louis",1893,M
+Alone in London,"Stretton, Hesba",1869,F
+Little Meg's Children,"Stretton, Hesba",1868,F
+"Jessica's First Prayer; and, Jessica's Mother","Stretton, Hesba",1867,F
+The Pigeon Pie,"Yonge, Charlotte Mary",1860,F
+The Little Duke: Richard the Fearless,"Yonge, Charlotte Mary",1854,F
+Countess Kate,"Yonge, Charlotte Mary",1860,F
+The Stokesley Secret,"Yonge, Charlotte Mary",1861,F
+Little Lucy's Wonderful Globe,"Yonge, Charlotte Mary",1871,F
+The Heir of Redclyffe,"Yonge, Charlotte Mary",1853,F
+The Lances of Lynwood,"Yonge, Charlotte Mary",1855,F
+"The Daisy Chain, or Aspirations","Yonge, Charlotte Mary",1856,F
+The Prince and the Page: A Story of the Last Crusade,"Yonge, Charlotte Mary",1866,F
